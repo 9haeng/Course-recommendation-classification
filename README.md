@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/70729822/193014210-e25184b1-811c-44f9-8ee3-5a78cf201656.png)
 
 
-[Ratemyprofessor](https://www.ratemyprofessors.com) 내 수강평에 포함된 지표와 강의계획서를 활용한 강좌 추천 여부를 분류하는 프로젝트
+[Ratemyprofessor](https://www.ratemyprofessors.com) 내 수강평에 포함된 지표와 강의계획서를 활용 강좌 추천 여부를 분류하는 프로젝트
 
 
 
